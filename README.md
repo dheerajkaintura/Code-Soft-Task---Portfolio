@@ -1,4 +1,4 @@
-![Screenshot 2025-02-27 221322](https://github.com/user-attachments/assets/7c8c176b-2c9c-4e06-9c14-e1340a380b65)![Screenshot 2025-02-27 221329](https://github.com/user-attachments/assets/cedc37fc-7472-4a8a-b26a-6333fe71d9ef)# Code-Soft-Task---Portfolio
+ # Code-Soft-Task---Portfolio
 This is my Internship Tasks Using HTML and CS
 ![Screenshot 2025-02-27 221227](https://github.com/user-attachments/assets/1ec60687-4771-4992-b767-4a4ec8626917)
 S .![Screenshot 2025-02-27 221237](https://github.com/user-attachments/assets/3fad34d4-1bd3-42a4-8d3f-178883b72656)![Screenshot 2025-02-27 221244](https://github.com/user-attachments/assets/5abd3946-449a-4391-b606-22281048aaf9)
@@ -13,4 +13,4 @@ S .![Screenshot 2025-02-27 221237](https://github.com/user-attachments/assets/3f
 ://github.com/user-attachments/assets/0c6bf623-0998-461c-8f9d-b813d3e218b5)
 
 
-![Screenshot 2025-02-27 221406](https://github.com/user-attachments/assets/c2d58b06-34fa-4142-b5b3-c1943c1bcd74)
+ 
